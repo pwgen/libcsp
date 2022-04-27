@@ -1,4 +1,5 @@
-/* usart drivver for use with esp32 idf ew@eric-weiss.de */
+/* usart driver for use with esp32-idf ew@eric-weiss.de */
+
 #include <csp/drivers/usart.h>
 
 #include <csp/csp_debug.h>
